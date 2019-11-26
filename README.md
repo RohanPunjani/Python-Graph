@@ -1,5 +1,18 @@
 # Python-Graph
 
+_26/11/2019 10:28pm_
+
+Learning New stuffs about graph.
+
+I made cosine function and saw that we can make many others as well!
+
+I now tried to plot both at once and it was fairly easy.
+
+Thinking to dig more in it.
+
+Lets see!
+
+
 _25/11/2019 11:48pm_.
 
 I have my exam tomorrow.
