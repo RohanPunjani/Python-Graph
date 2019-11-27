@@ -1,6 +1,6 @@
 # Python-Graph
 ---
-## _27/11/2019 11:08pm_
+### _27/11/2019 11:08pm_
 
 Hey guys, was out whole day with family and friends.
 
@@ -9,7 +9,7 @@ Tired but still tried to learn about pie chart using matplotlib
 Its really easy, just slices of pizza having  different toppings of different color where u can decide which slice will be bigger ....
 
 ---
-## _26/11/2019 10:28pm_
+### _26/11/2019 10:28pm_
 
 Learning New stuffs about graph.
 
@@ -22,7 +22,7 @@ Thinking to dig more in it.
 Lets see!
 
 ---
-## _25/11/2019 11:48pm_.
+### _25/11/2019 11:48pm_.
 
 I have my exam tomorrow.
 
