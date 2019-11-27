@@ -35,3 +35,5 @@ I was studying today and seeing soo much `graphs` inspired me to visualise it us
 Looked up on the internet and found how to make `Sine Function`.
 
 Rest will add tomorrow (hopefully ^_^)!
+
+---
